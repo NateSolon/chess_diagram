@@ -1,6 +1,3 @@
-from fastai2.vision.all import *
-
-
 labels = ['WK', 'WQ', 'WR', 'WB', 'WN', 'WP',
           'BK', 'BQ', 'BR', 'BB', 'BN', 'BP',
           '_']
