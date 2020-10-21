@@ -2,7 +2,7 @@
 
 Recognize the position from an image of a chess diagram and export it as a FEN that can be used with chess apps. Check out the app deployed at https://chessdiagram923489.herokuapp.com/.
 
-[DEMO VIDEO]
+[![Demo of app](http://img.youtube.com/vi/QrEialnghho/0.jpg)](http://www.youtube.com/watch?v=QrEialnghho "Demo")
 
 The image must be cropped to the board only and from white's point of view (first rank at the bottom). It's been tested with the standard sets from lichess, chess.com, and ChessBase.
 
